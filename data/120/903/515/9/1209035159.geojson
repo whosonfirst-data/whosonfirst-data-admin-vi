@@ -217,7 +217,7 @@
         "gn:id":4796321
     },
     "wof:country":"VI",
-    "wof:geomhash":"0107692519c3e3485792df02b23a553e",
+    "wof:geomhash":"5c7c259dbb13db0700490e1560064f7b",
     "wof:hierarchy":[
         {
             "dependency_id":85632169,
@@ -240,5 +240,5 @@
     -64.81487,
     17.70442000000001
 ],
-  "geometry": {"coordinates":[-64.81487,17.70442000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.81487,17.70442],"type":"Point"}
 }

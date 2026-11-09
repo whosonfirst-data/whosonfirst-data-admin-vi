@@ -103,7 +103,7 @@
         "gn:id":4796221
     },
     "wof:country":"VI",
-    "wof:geomhash":"371f7e354e903fca08d5fab053d9a279",
+    "wof:geomhash":"514ed03ab2b6a45b1e0ab86c6a3e8263",
     "wof:hierarchy":[
         {
             "dependency_id":85632169,
@@ -126,5 +126,5 @@
     -64.8007,
     17.74581000000001
 ],
-  "geometry": {"coordinates":[-64.80070000000001,17.74581000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.8007,17.74581],"type":"Point"}
 }

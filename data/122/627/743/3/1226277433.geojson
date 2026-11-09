@@ -43,7 +43,7 @@
         "gn:id":4795321
     },
     "wof:country":"VI",
-    "wof:geomhash":"b54e3522ff5a923ab1aaa031f34c1daa",
+    "wof:geomhash":"ecddd5e41e481dce0eb46b9533ec3c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -65.01375999999999,
     18.36134
 ],
-  "geometry": {"coordinates":[-65.01375999999999,18.36134],"type":"Point"}
+  "geometry": {"coordinates":[-65.01376,18.36134],"type":"Point"}
 }
